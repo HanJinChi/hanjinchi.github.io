@@ -1,4 +1,4 @@
 baseURL = 'https://hanjinchi.github.io/'
 languageCode = 'zh-cn'
-title = '我的博客'
+title = 'hanjinchi的博客'
 theme = 'ananke'
